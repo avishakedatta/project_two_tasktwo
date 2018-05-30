@@ -1,0 +1,49 @@
+.container{
+		height:650px;
+		width:50%;
+		margin:auto;
+		background-color:red;
+}
+.left_column{
+	height:550px;
+	width:25%;
+	float:left;
+	background-color:black;
+}
+.header{
+	height:100px;
+	width:75%;
+	float:left;
+	background-color:#c70000;
+}
+.banner{
+
+	height:225px;
+	width:75%;
+	float:left;
+	background-color:white;
+}
+.banner_one{
+	height:225px;
+	width:50%;
+	float:left;
+	background-color:#ffa500;
+}
+.banner_two{
+	height:225px;
+	width:50%;
+	float:left;
+	background-color:#0080ff;
+}
+.content{
+	height:225px;
+	width:75%;
+	float:left;
+	background-color:#bf8040;
+}
+.footer{
+	height:100px;
+	width:100%;
+	float:left;
+	background-color:#604020;
+}
